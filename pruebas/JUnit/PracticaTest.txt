@@ -1,0 +1,9 @@
+1.- Los mensajes enviados no deben ser nulos
+2.- El texto de un mensaje no debe ser nulo, pero puede estar vacio
+3.- El destinatario de un mensaje no debe ser nulo
+4.- Para un usuario dado, ha de ser cierto que sus buzones de mensajes enviados y recibidos deben
+estar vacios cuando lo instanciamos
+5.- Ha de ser cierto que si el usuario A envía N mensajes al usuario B, los mensajes deben estar en el buzón
+de enviados de A y en el de recibidos de B
+6.- Debe cumplirse que si A envía N mensajes a B, los mensajes del buzón de recibidos de B deben ser
+los mismos que A envió

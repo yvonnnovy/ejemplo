@@ -1,0 +1,8 @@
+EjemploJUnit0000Maven: creamos el código antes que el test
+EjemploJUnit0001Maven: creamos el test antes que el código. El código no compila.
+EjemploJUnit0002Maven: Escribimos el código necesario para que el sistema compile. El test falla.
+EjemploJUnit0003Maven: Escribimos el código necesario para que el test pase.
+EjemploJUnit0004Maven: Introducimos un nuevo requerimiento y lo representamos mediante un nuevo test. El test falla. Ajustamos el código para que pase el nuevo test. Observamos que el segundo test pasa, en efecto, pero el primero falla. Acabamos de ejecutar, casi sin querer, un test de regresión.
+EjemploJUnit0005Maven: Ajustamos el código para que ambos test pasen. Sólo el necesario.
+EjemploJUnit0006Maven: Reorganizamos el código (refactoring)
+
